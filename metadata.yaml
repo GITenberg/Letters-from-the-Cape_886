@@ -1,0 +1,29 @@
+_repo: Letters-from-the-Cape_886
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Duff Gordon, Lucie, Lady
+    aliases:
+    - Gordon, Lucie Duff, Lady
+    - Austin, Lucie, Lady
+    - Duff-Gordon, Lucie Austin, Lady
+    birthdate: 1821
+    deathdate: 1869
+    gutenberg_agent_id: '458'
+    url: http://www.gutenberg.org/2009/agents/458
+    wikipedia: http://en.wikipedia.org/wiki/Lucie%2C_Lady_Duff-Gordon
+description: ''
+gutenberg_issued: '1997-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '886'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cape of Good Hope (South Africa) -- Description and travel'
+- !lcc 'DT'
+- GITenberg
+title: Letters from the Cape
+url: http://www.gutenberg.org/ebooks/886

@@ -1,5 +1,8 @@
 _repo: Letters-from-the-Cape_886
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Duff Gordon, Lucie, Lady
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/458
     wikipedia: http://en.wikipedia.org/wiki/Lucie%2C_Lady_Duff-Gordon
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/886#Letters-from-the-Cape
 gutenberg_issued: '1997-04-01'
 gutenberg_type: Text
 identifiers:
